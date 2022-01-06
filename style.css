@@ -1,0 +1,136 @@
+section{
+    display: flex;
+    font-family: 'Teko', sans-serif;
+}
+.half-width{
+    width: 60%;
+    margin: 10px 5px 10px 15px;
+    padding-left: 10%;
+
+}
+.widta{
+    margin-right: 7%;
+}
+.half-width img{
+    width: 80%;
+    border-radius: 15px;
+}
+.tap-button{
+    text-decoration: none;
+    border-radius: 7px;
+    background-image: linear-gradient(orange, tomato);
+}
+.black{
+    color: black;
+    border-left: 4px solid yellow;
+    padding-left: 3%;
+}
+span{
+    color: brown;
+}
+.second-hd{
+    text-align: center;
+    margin-top: 5%;
+    .num-c{
+        color: red;
+    }
+}
+.tree-bcg{
+    margin-left: 7%;
+    border-radius: 5px solid green;
+}
+.bn{
+    background-image: url(AR-IMG/shape-2.png);
+    background-position: right;
+    margin-top: 10px ;
+}
+.tac{
+    text-decoration: none;
+    border-radius: 10% solid gold;
+    padding: 6px;
+}
+.hwa{
+    width: 50%;
+    margin-top: 3%;
+}
+#bbc{
+    margin-left: 5%;
+    margin-top: 3%;
+}
+#ttr{
+    padding-left: 2%;
+}
+.ppy{
+    width: 50%;
+    margin: 5% 8% 3% 4%;
+    padding-left: 5%;
+    border-radius: 12px;
+    
+}
+.ppy img{
+    width: 85%;
+    border-radius: 3%;
+}
+.zzs{
+    text-decoration: none;
+    background-image: radial-gradient(orange, tomato);
+    border-radius: 2px;
+}
+#astbcg{
+    background-image: radial-gradient(red, yellow);
+    padding-left: 2%;
+    border-radius: 17px;
+}
+#ndbcg{
+    background-image: repeating-linear-gradient(blue, violet);
+    padding-left: 2%;
+    border-radius: 17px;
+}
+#rdbcg{
+    background-image: linear-gradient(cyan, black);
+    padding-left:2% ;
+    border-radius: 17px;
+}
+.widta{
+
+}
+.wee{
+    width: 50%;
+    box-shadow: 10px 10px 14px 10px chartreuse;
+    margin: 20px;
+    padding-left: 3%;
+    
+}
+.midf{
+    text-align: center;
+}
+#ll{
+
+}
+span{
+    color: green;
+}
+.yyi{
+    margin-top: 5%;
+    margin-left: 2%;
+    box-shadow: 5px 5px 7px 6px crimson;
+}
+
+.bb{
+    border-radius: 7px;
+    background-image: linear-gradient(yellow, red);
+    text-decoration: none;
+    text-align: right;
+}
+.gg{
+    text-align: center;
+}
+.nn{
+    text-align: center;
+}
+.jj{
+    background-color: lightseagreen;
+}
+.bb{
+    color: magenta;
+}
